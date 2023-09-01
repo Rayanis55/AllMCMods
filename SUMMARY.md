@@ -2,6 +2,7 @@
 
 * [🏠 Home](README.md)
 * [🌐 Download](download.md)
+* [💡 Suggestion / Report Bug](suggestion-report-bug.md)
 
 ## 🔧 AllCreateMods
 
